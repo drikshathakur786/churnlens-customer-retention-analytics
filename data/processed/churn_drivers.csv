@@ -1,0 +1,15 @@
+Feature,Coefficient
+tenure,-1.360976
+Contract_Two year,-0.616655
+MonthlyCharges,-0.574255
+InternetService_No,-0.506313
+Contract_One year,-0.268852
+OnlineSecurity_Yes,-0.162341
+TechSupport_Yes,-0.125294
+PaymentMethod_Electronic check,0.152436
+MultipleLines_Yes,0.163769
+PaperlessBilling,0.163998
+StreamingTV_Yes,0.170198
+StreamingMovies_Yes,0.219750
+InternetService_Fiber optic,0.597731
+TotalCharges,0.664127
